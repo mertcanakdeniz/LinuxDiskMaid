@@ -12,4 +12,4 @@ To install LinuxDiskMaid, follow these steps:
 3. Run the installation script: `./linuxdismaid.sh`
 
 Make sure to install the following dependencies:
-- sudo chmod +x ./linuxdismaid.sh
+- sudo chown 777 linuxdismaid.sh
